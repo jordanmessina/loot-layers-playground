@@ -109,6 +109,7 @@ export default function App() {
       <select onChange={(event) => setLayerPack(event.target.value)} value={layerPack}>
         <option value="example1">Example 1</option>
         <option value="example2">Example 2</option>
+        <option value="example3">Example 3</option>
       </select>
       <div style={{position: "relative", width: "500px", height: "500px", marginTop: "30px"}}>
         {lootCharacter}
