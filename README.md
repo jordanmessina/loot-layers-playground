@@ -1,4 +1,4 @@
-# Look Layers Playground
+# Loot Layers Playground
 
 An exmaple webapp that uses the [Loot Layer](https://github.com/jordanmessina/loot-layers) method for creating [Loot](https://www.lootproject.com/) visuals.
 
