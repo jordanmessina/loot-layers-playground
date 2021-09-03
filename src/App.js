@@ -1,5 +1,8 @@
 import "./styles.css";
 
+import mapping from './img/example1/mapping.json'
+import layers from './img/example1/layers.json'
+
 export default function App() {
   return (
     <div className="App">
